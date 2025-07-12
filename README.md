@@ -33,7 +33,7 @@ This project leverages **deep learning**, **pose estimation**, and optionally **
 
 ## 🗃️ Dataset
 
-- **Source**: [Olympic Boxing Punch Classification Dataset](https://www.kaggle.com/datasets/husseinfarid/olympic-boxing-punch-classification-video-dataset), Custom Synthetic Data
+- **Source**: [Olympic Boxing Punch Classification Dataset](https://www.kaggle.com/datasets/piotrstefaskiue/olympic-boxing-punch-classification-video-dataset), Custom Synthetic Data
 - **Preprocessing**:
   - Frame extraction & annotation
   - Pose landmark detection
