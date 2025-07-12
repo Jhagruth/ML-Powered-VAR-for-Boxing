@@ -49,3 +49,8 @@ This project leverages **deep learning**, **pose estimation**, and optionally **
 ```bash
 git clone git@github.com:Jhagruth/ML-Powered-VAR-for-Boxing.git
 cd ML-Powered-VAR-for-Boxing
+```
+
+---
+
+### **For more information, the presentation can be viewed [here](ML%20Powered%20VAR%20for%20Boxing.pdf).**
