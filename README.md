@@ -53,4 +53,4 @@ cd ML-Powered-VAR-for-Boxing
 
 ---
 
-### **For more information, the presentation can be viewed [here](ML%20Powered%20VAR%20for%20Boxing.pdf).**
+### **For more information, the presentation can be viewed [here](ML%20Powered%20VAR%20for%20Boxing.pdf), and the summary paper can be viewed [here](Summary%Paper.pdf)**
